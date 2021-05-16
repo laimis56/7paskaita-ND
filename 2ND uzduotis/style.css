@@ -1,0 +1,224 @@
+body{
+  background-color:#F7F7F7;
+  font-family: 'News Cycle', sans-serif;
+  font-size: 17px;
+  padding: 20px 20px;
+}
+p{
+
+  float: right;
+  color: #666;
+  margin: 14px 13px;
+  font-size: 16px;
+  position: relative;
+  top: 121px; left: -51px;
+
+ width: 213px;
+ height: 258px;
+
+}
+h3{
+   color: #0974b3;
+  margin-left: 25px
+}
+h4{
+  font-style: tahoma;
+
+  color:grey;
+  margin-top: -15px;
+  margin-left: 25px;
+}
+em{
+  word-spacing: 1px;
+  letter-spacing: 1px;
+  width: 93px;
+  height: 49px;
+  position: relative; top:-1px; right: 24px;
+  color:#666;
+  margin: 0px 10px;
+  float: right;
+}
+a{
+  position: relative; top:32px; right: -143px;
+margin: 20px -199px;
+
+}
+
+
+
+.tesla {
+  position: relative; right: -674px ;top: -1420px;
+
+  border: 1px solid lightgrey;
+  border-top: 8px solid  grey;
+  height: 700px;
+  width: 300px;
+background-color:white;
+
+}
+.albert{
+  position: relative; right: -343px ; top: -710px;
+
+
+  background-color:blue;
+  border: 1px solid lightgrey;
+  border-top: 8px solid  grey;
+  height: 700px;
+  width: 300px;
+background-color:white;
+}
+.newton{
+  position:relative; right: -13px ; top: -1px;
+
+
+
+  background-color:blue;
+  border: 1px solid lightgrey;
+  border-top: 8px solid grey;
+  height: 700px;
+  width: 300px;
+background-color:white;
+}
+.img1{
+  margin-left: 26px;
+  margin-right: 20px;
+  margin-bottom: 8px;
+  height: 171px;
+  width: 135px;
+  float: left;
+
+
+}
+
+.img2{
+  margin-left: 26px;
+  margin-right: 20px;
+  margin-bottom: 8px;
+  height: 171px;
+  width: 120px;
+  float: left;
+   }
+   .img3{
+     margin-left: 26px;
+     margin-right: 20px;
+     margin-bottom: 8px;
+     height: 171px;
+     width: 120px;
+     float: left;
+     }
+     .img11{
+
+       opacity: 0;
+       height: 50px;
+       width: 50px;
+       position: relative;top: 55px; right: 104px;
+     }
+     .img11:hover{
+       opacity: 1;
+
+     }
+     .img12{
+
+       opacity: 0;
+       height: 50px;
+       width: 50px;
+       position: relative;top: 55px; right: 104px;
+     }
+     .img12:hover{
+       opacity: 1;
+
+     }
+     .img13{
+
+       opacity: 0;
+       height: 50px;
+       width: 50px;
+       position: relative;top: 55px; right: 104px;
+     }
+     .img13:hover{
+       opacity: 1;
+
+     }
+
+.a2{
+  margin: 20px -199px;
+}
+.a3{
+  margin: 20px 2px;
+}
+
+.em3{
+  word-spacing: 1px;
+  letter-spacing: -11px;
+  width: 19px;
+  height: 0px;
+  position: relative; top:-48px; right: -15px;
+  color:#666;
+  margin: 2px 10px;
+  float: right;
+
+}
+
+
+
+   .btn1{
+  font-style: italic;
+  font-size: 15px;
+  background-color: #0099ff;
+  color: white;
+  position: relative; top: 10px; right: 10px;
+  width: 230px;
+  height: 50px;
+  border-radius: 16px 3px;      /* 10 : left-top, 10 : right-bottom */
+  transition: ease-out 0.3s;
+  outline: none;
+
+}
+.btn2{
+font-style: italic;
+font-size: 15px;
+background-color: #0099ff;
+color: white;
+position: relative; top: 10px; right: 10px;
+width: 230px;
+height: 50px;
+border-radius: 16px 3px;      /* 10 : left-top, 10 : right-bottom */
+transition: ease-out 0.3s;
+outline: none;
+
+}
+.btn3{
+font-style: italic;
+font-size: 15px;
+background-color: #0099ff;
+color: white;
+position: relative; top: 10px; right: 10px;
+width: 230px;
+height: 50px;
+border-radius: 16px 3px;      /* 10 : left-top, 10 : right-bottom */
+transition: ease-out 0.3s;
+outline: none;
+
+}
+
+.btn1:hover{
+ background-color:#004d80;
+}
+.btn2:hover{
+ background-color:#004d80;
+}
+.btn3:hover{
+ background-color:#004d80;
+}
+.newton:hover{
+  border-top-color:#0974b3;
+  position: relative;top:-6px;
+}
+.albert:hover{
+  border-top-color: #0974b3;
+  position: relative;top:-714px;
+}
+.tesla:hover{
+  border-top-color: #0974b3;
+  position: relative;top:-1427px;
+}
